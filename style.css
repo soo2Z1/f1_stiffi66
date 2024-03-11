@@ -3,6 +3,9 @@ header img {
    margin: 0 auto;
 }
 
+table{
+    margin: 0 auto;
+}
 h1{
     text-align: center;
     font-family: Trebuchet MS;
@@ -12,15 +15,20 @@ h1{
 h2{
     font-family: Tahoma;
     color:rgba(238, 255, 0, 0.514);
+    text-align: center;
 }
 p{
-    color:rgba(255, 255, 255, 0.733);
+    color: white;
     font-family:monospace;
-    }
+    background-color: rgba(255, 0, 0, 0.486);
+    padding: 15px;
+    
+}
 
 h3{
     font-family: Trebuchet MS;
-    color: rgba(255, 0, 0, 0.486);
+    color: white;
+    text-align: center;
 }
 
 b{
@@ -44,6 +52,7 @@ main td{
     color:aliceblue;
     font-family:Franklin Gothic Medium, Arial Narrow, Arial, sans-serif;
     padding: 5px;
+    text-align: center;
 }
 
 table{
@@ -70,4 +79,5 @@ footer a {
     padding: 10px 95px;
     border-radius: 10px;
     font-family:monospace ;
+
 }
