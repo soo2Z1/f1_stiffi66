@@ -5,12 +5,12 @@ header img {
 
  .projects {
     top:140px;
-    background-color:rgba(255, 0, 0, 0.486);
+    background-color:rgb(255, 0, 0);
 }
 
 .contact {
-    top: 200px;
-    background-color: rgba(255, 0, 0, 0.486);
+    top: 240px;
+    background-color:rgb(255, 0, 0);
 }
 
 header a:hover {
@@ -20,7 +20,7 @@ header a:hover {
 
 
 header a {
-    position: absolute;
+    position: fixed;
     left: -80px;
     transition: 0.3s;
     padding: 15px;
