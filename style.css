@@ -3,23 +3,23 @@ header img {
     margin: 0 auto;
  }
 
- .projects{
+ .projects {
     top:140px;
     background-color:rgba(255, 0, 0, 0.486);
 }
 
-.contact{
+.contact {
     top: 200px;
     background-color: rgba(255, 0, 0, 0.486);
 }
 
-nav a:hover{
+nav a:hover {
     left: 0;
     color: gold;
 }
 
 
-nav a{
+nav a {
     position: absolute;
     left: -80px;
     transition: 0.3s;
