@@ -13,13 +13,13 @@ header img {
     background-color: rgba(255, 0, 0, 0.486);
 }
 
-nav a:hover {
+header a:hover {
     left: 0;
     color: gold;
 }
 
 
-nav a {
+header a {
     position: absolute;
     left: -80px;
     transition: 0.3s;
