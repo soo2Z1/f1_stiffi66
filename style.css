@@ -11,6 +11,7 @@ header img {
 .contact {
     top: 260px;
     background-color:rgb(255, 0, 0);
+    margin-bottom:10px;
 }
 
 header a:hover {
