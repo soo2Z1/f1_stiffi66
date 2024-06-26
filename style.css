@@ -4,14 +4,14 @@ header img {
  }
 
  .projects {
-    top:160px;
+    top:200px;
     background-color:rgb(255, 0, 0);
 }
 
 .contact {
     top: 260px;
     background-color:rgb(255, 0, 0);
-    margin-bottom:5px;
+    margin-bottom:0px;
 }
 
 header a:hover {
